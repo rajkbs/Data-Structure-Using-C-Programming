@@ -22,3 +22,10 @@ int main(){
     printf("%d", s.roll_no);
     return 0;
 }
+
+O/P: 
+Enter Student name: Raj Kumar
+Enter Roll Number: 1234
+--Display--
+Raj Kumar
+1234
